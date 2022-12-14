@@ -93,6 +93,11 @@
 
 <br/>
 
+## Watch my contribution graph get eaten by the snake 🐍
+
+![snake gif](https://github.com/SewminiJ/SewminiJ/blob/output/github-contribution-grid-snake.gif)
+
+
 
 <!---
 SewminiJ/SewminiJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
