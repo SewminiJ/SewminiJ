@@ -2,7 +2,7 @@
 
 <p align="center"><img align="left" width="180" height="160" margin-right="60px" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" height="180"></p>
             
-- 🔭 I'm currently worknig **where I get a value for myself**
+- 🔭 I'm currently worknig **where I get a Value for Myself**
 - 👀 I’m interested in **UI&UX Designing**
 - 🌱 I’m currently learning **Vue & Machine Learing**
 - 💞️ I’m looking to collaborate on **new projects with best developers**
