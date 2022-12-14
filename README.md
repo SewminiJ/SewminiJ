@@ -93,7 +93,7 @@
 
 <br/>
 
-## Watch my contribution graph get eaten by the snake 🐍
+## <img style="height: 50px; width: 50px;" src="https://img.icons8.com/emoji/48/null/snake-emoji.png"/> Watch my contribution graph get eaten by the snake 
 
 ![snake gif](https://github.com/SewminiJ/SewminiJ/blob/output/github-contribution-grid-snake.gif)
 
